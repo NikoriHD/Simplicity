@@ -1,0 +1,150 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.21.14.4187
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.375 seconds
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Skole\Prog\Simplicity\Simplicity_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 240Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 0.808800 ms
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.366300 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 497.
+Total: 0.137000 ms (FindLiveObjects: 0.021700 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.087700 ms  DeleteObjects: 0.014900 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.167600 ms (FindLiveObjects: 0.041600 ms CreateObjectMapping: 0.013400 ms MarkObjects: 0.108000 ms  DeleteObjects: 0.004000 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.158500 ms (FindLiveObjects: 0.025800 ms CreateObjectMapping: 0.012000 ms MarkObjects: 0.115400 ms  DeleteObjects: 0.004500 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.171800 ms (FindLiveObjects: 0.030900 ms CreateObjectMapping: 0.020300 ms MarkObjects: 0.114200 ms  DeleteObjects: 0.004100 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.157100 ms (FindLiveObjects: 0.037000 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.103700 ms  DeleteObjects: 0.004200 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.147500 ms (FindLiveObjects: 0.021400 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.109500 ms  DeleteObjects: 0.004000 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.173800 ms (FindLiveObjects: 0.024300 ms CreateObjectMapping: 0.025600 ms MarkObjects: 0.119000 ms  DeleteObjects: 0.004000 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.150600 ms (FindLiveObjects: 0.029400 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.104500 ms  DeleteObjects: 0.004200 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.294600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.161500 ms (FindLiveObjects: 0.037500 ms CreateObjectMapping: 0.011500 ms MarkObjects: 0.107700 ms  DeleteObjects: 0.003800 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.290000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.170200 ms (FindLiveObjects: 0.041000 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.112700 ms  DeleteObjects: 0.004100 ms)
+
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.346600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 0.158900 ms (FindLiveObjects: 0.029900 ms CreateObjectMapping: 0.012500 ms MarkObjects: 0.111500 ms  DeleteObjects: 0.004200 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 479c -> priority: 1 
+  Thread -> id: 40e4 -> priority: 1 
+  Thread -> id: 21a8 -> priority: 1 
+  Thread -> id: 35b4 -> priority: 1 
